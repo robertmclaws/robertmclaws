@@ -19,7 +19,14 @@ I'm a member of the [.NET Foundation](https://dotnetfoundation.org) and CEO of [
 | The long tail | [PortableRest](https://github.com/CloudNimble/PortableRest), [Zlib.Portable](https://github.com/CloudNimble/Zlib.Portable), [SendGridPlus](https://www.nuget.org/packages/SendGridPlus/), [TypeLitePlus](https://github.com/CloudNimble/TypeLitePlus), [Base36](https://www.nuget.org/packages/Base36/) — packages from the PCL years that still get pulled. |
 
 ## What I've Won
-[INSERT TABLE HERE]
+
+| Award | Receipt |
+| --- | --- |
+| 2020 Atlanta Startup Battle | Robert pitched BurnRate and won $100,000 in investment |
+| 2019 Florida Excellence in Technology | Emergency Status System team. Kept Florida hospitals connected through Hurricane Michael, then 100% uptime for the entire 2+ year COVID state of emergency. |
+| [PC Magazine Top 100 Websites](https://web.archive.org/web/20040407012057/http://www.pcmag.com/article2/0,1759,1559097,00.asp), 2004 | LonghornBlogs.com, **#4** in its category. Coverage of Windows "Codename Longhorn" from Microsoft's Team 99. |
+| CMP Media Top 10 Independent Tech Blogs, 2005 | LonghornBlogs.com, finals against Groklaw and Slashdot. |
+
 
 ## Find me
 
