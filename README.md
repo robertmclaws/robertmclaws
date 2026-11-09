@@ -1,5 +1,5 @@
 # Robert McLaws
-25 years making .NET better through feedback, components, and frameworks.
+25 years of making .NET better through feedback, components, and frameworks.
 
 I spent my career making it easy as f\*ck to build applications on .NET.
 Now I'm making it easy as f\*ck to build for Super Intelligence on .NET, too.
