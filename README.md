@@ -12,7 +12,7 @@ I'm a member of the [.NET Foundation](https://dotnetfoundation.org) and CEO of [
 
 | Achievement | Receipt |
 | --- | --- |
-| First cross-platform [`System.Threading.Tasks`](https://www.nuget.org/packages/System.Threading.Tasks) | **4 billion downloads.** I released the first cross-platform port of the TPL that supported Windows Phone and Xbox. Microsoft took over the package, but kept my stamp on it [AdvancedREI](https://www.nuget.org/profiles/AdvancedREI). |
+| First cross-platform [`System.Threading.Tasks`](https://www.nuget.org/packages/System.Threading.Tasks) | **4 billion downloads.** I released the first cross-platform port of the TPL, which also supported Windows Phone and Xbox. Microsoft took over the package to ship .NET Core, but kept my stamp on it [AdvancedREI](https://www.nuget.org/profiles/AdvancedREI). |
 | [Restier](https://github.com/OData/RESTier) | I spearheaded convincing Microsoft to contribute it to the .NET Foundation. EF model in, OData v4 API out. |
 | [Microsoft OData for Super Intelligence](https://github.com/OData/MCP) | Created a platform that builds MCP tools for OData APIs, whether you own them or not. |
 | [EasyAF](https://github.com/CloudNimble) | The Easy Application Framework that's easy as fuck. Built at CloudNimble. The catalog lives on the [org profile](https://github.com/CloudNimble). |
