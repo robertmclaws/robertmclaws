@@ -4,11 +4,7 @@
 I spent my career making it easy as f\*ck to build applications on .NET.
 Now I'm making it easy as f\*ck to build for Super Intelligence on .NET, too.
 
-I'm a 5× Microsoft MVP in 3 different technologies
-- Youngest Developer MVP in 2003, at 21
-- ASP.NET
-- Windows
-- Visual Studio
+I'm a 5× Microsoft MVP in 3 different technologies. Youngest Developer MVP in 2003, at 21 years old. Awarded for ASP.NET, Windows, and Visual Studio.
 
 I'm a member of the [.NET Foundation](https://dotnetfoundation.org) and CEO of [CloudNimble](https://github.com/CloudNimble).
 
