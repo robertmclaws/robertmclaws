@@ -15,7 +15,7 @@ I'm a 5× Microsoft MVP, awarded for ASP.NET, Windows, and Visual Studio, and a 
 | Project | Receipt |
 | --- | --- |
 | [`System.Threading.Tasks`](https://www.nuget.org/packages/System.Threading.Tasks) | I released the first cross-platform port of the TPL, which also supported Windows Phone and Xbox. Microsoft took over the package to ship .NET Core, and my [AdvancedREI](https://www.nuget.org/profiles/AdvancedREI) account is still listed as an owner. 4.08 billion downloads (nuget.org, Nov 12, 2026). |
-| [Restier](https://github.com/OData/RESTier) | EF model in, OData v4 API out. I co-lead the project and spearheaded convincing Microsoft to contribute it to the .NET Foundation. 157 commits and 12 merged pull requests, from .NET 8 support to the [1.2 RTM release](https://github.com/OData/RESTier/pull/773) (GitHub, Nov 12, 2026). |
+| [Restier](https://github.com/OData/RESTier) | EF model in, OData v4 API out. I co-lead the project, spearheaded convincing Microsoft to contribute it to the .NET Foundation, and shipped the [1.0 release](https://github.com/OData/RESTier/releases/tag/v1.0.0). Since Microsoft's last code commit in Apr 2022: 43 commits and 6 merged pull requests, from .NET 8 support to the [1.2 RTM release](https://github.com/OData/RESTier/pull/773) (GitHub, Nov 12, 2026). |
 | [OData MCP](https://github.com/OData/MCP) | Builds MCP tools for OData APIs, whether you own them or not. I wrote the [ground-up rewrite for MCP 2.0 and server-side MCP](https://github.com/OData/MCP/pull/2) (merged Sep 2026). |
 
 ### Built at CloudNimble
