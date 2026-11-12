@@ -57,11 +57,11 @@ By the numbers, as of Nov 12, 2026:
 
 Stories from the startup trenches on [CloudNimble on Medium](https://medium.com/cloudnimble).
 
-[![Robert's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=robertmclaws&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Robert's GitHub stats-Light](https://github-stats-extended.vercel.app/api?username=robertmclaws&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 ## Find me
 
 - X: [@robertmclaws](https://x.com/robertmclaws)
 - GitHub: [CloudNimble](https://github.com/CloudNimble)
 - NuGet: [CloudNimble](https://www.nuget.org/profiles/CloudNimble) · [AdvancedREI](https://www.nuget.org/profiles/AdvancedREI)
+
+[![Robert's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=robertmclaws&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Robert's GitHub stats-Light](https://github-stats-extended.vercel.app/api?username=robertmclaws&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
